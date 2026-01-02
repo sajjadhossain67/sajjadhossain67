@@ -1,51 +1,54 @@
+👋 Hi, I’m Sajjad Hossain
 
----
+Junior Software Engineer (Frontend / Full-Stack) based in Dhaka, Bangladesh
+I build scalable, production-ready web applications using TypeScript, React, Next.js, and Node.js.
 
-### 👋 Hi there! I’m **Sajjad Hossain**  
-**Junior Software Engineer** | Bashundhara R/A, Dhaka, Bangladesh  
-📞 01779115387 | ✉️ [sajjad19397@gmail.com](mailto:sajjad19397@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/sajjad19397) | [GitHub](https://github.com/sajjadhossain67) | 🌐 [Portfolio](https://sajjad-hossain.netlify.app/)  
+💼 Junior Software Engineer at Munchies
 
----
+🏆 AI HackFest 2023 Champion
 
-#### 🌟 Summary
-A dedicated and enthusiastic Junior Software Engineer with a strong desire to work with diverse technologies. Known for adaptability, the ability to work under pressure, and a passion for software engineering.
+🏅 National Hackathon 2022 – Top 15
 
----
+🎓 B.Sc. in CSE from AIUB
 
-#### 💼 Experience
-- **Junior Software Engineer** at Munchies, Dhaka  
-  - Enhanced software infrastructure and improved server response times for the food delivery platform.
-  
-- **Intern Software Engineer** at SJ Innovation LLC, Dhaka  
-  - Contributed to various projects, focusing on writing optimized code and client interaction.
+🚀 What I Work With
 
----
+Frontend: React, Next.js, Tailwind CSS, Material UI
 
-#### 🏆 Achievements
-- **AI HackFest 2023**: Champion
-- **National Hackathon 2022**: Top 15
+Backend: Node.js, Express, NestJS
 
----
+Languages: TypeScript, JavaScript, SQL, PHP
 
-#### 🎓 Education
-**B.Sc. in Computer Science & Engineering**  
-American International University-Bangladesh (AIUB)
+Databases: MongoDB, MySQL
 
----
+DevOps & Cloud: Docker, AWS S3, Azure
 
-#### 🛠 Skills
-- **Languages**: JavaScript, TypeScript, SQL, MongoDB  
-- **Frameworks**: React, Next.js, Nest.js, Express  
-- **DevOps**: Docker, AWS S3  
-- **Design**: Tailwind CSS, Material-UI
+Practices: REST APIs, Microservices, Git, Agile
 
----
+📌 Selected Projects
 
-#### 📚 Projects
-- E-learning Platform
-- E-Tutor Platform
-- Management System (Blood Bank, Ticket)
-- Smart Contract Applications (Blockchain)
+Munchies V3 – Scalable food delivery platform built with Next.js and NestJS microservices
 
----
+Cookspace – Responsive web platform for a sister brand (React)
+
+Pixel-Fixture / InvestHub / Aura – TypeScript-driven web applications
+
+Custom AI Chatbot – MERN-based chatbot with OpenAI integration
+
+🌱 Currently Focused On
+
+Advanced React & Next.js patterns
+
+System design fundamentals
+
+Writing clean, maintainable, and scalable code
+
+📫 Connect With Me
+
+🌐 Portfolio: https://sajjad-hossain.netlify.app
+
+💼 LinkedIn: https://linkedin.com/in/sajjad19397
+
+📧 Email: sajjad19397@gmail.com
+
+⭐ If you find my projects useful, feel free to star or fork them.
