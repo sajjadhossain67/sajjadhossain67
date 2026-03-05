@@ -1,54 +1,78 @@
-👋 Hi, I’m Sajjad Hossain
+<div align="center">
 
-Junior Software Engineer (Frontend / Full-Stack) based in Dhaka, Bangladesh
-I build scalable, production-ready web applications using TypeScript, React, Next.js, and Node.js.
+# Hey, I'm Sajjad Hossain 👋
 
-💼 Junior Software Engineer at Munchies
+**Full-Stack Engineer · React · Next.js · NestJS · TypeScript**
 
-🏆 AI HackFest 2023 Champion
+*Building scalable, production-ready web applications from Dhaka, Bangladesh*
 
-🏅 National Hackathon 2022 – Top 15
+[![Portfolio](https://img.shields.io/badge/Portfolio-sajjad--hossain.netlify.app-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://sajjad-hossain.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sajjad19397-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajjad19397)
+[![Email](https://img.shields.io/badge/Email-sajjad19397@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sajjad19397@gmail.com)
 
-🎓 B.Sc. in CSE from AIUB
+</div>
 
-🚀 What I Work With
+---
 
-Frontend: React, Next.js, Tailwind CSS, Material UI
+## About Me
 
-Backend: Node.js, Express, NestJS
+Full-Stack Engineer with **2+ years of production experience** building microservices and high-performance web applications. Currently at **Munchies** where I architected a scalable NestJS microservices system (V3) and engineered RBAC-based admin panels for a multi-vendor food delivery platform.
 
-Languages: TypeScript, JavaScript, SQL, PHP
+- 💼 **Junior Software Engineer** @ Munchies, Dhaka
+- 🏆 **AI HackFest 2023 Champion** — Team QuantoBug (SJ Innovation LLC)
+- 🏅 **National Hackathon 2022** — Top 15 Finalist across Bangladesh
+- 🎓 **B.Sc. CSE** — American International University-Bangladesh (AIUB)
 
-Databases: MongoDB, MySQL
+---
 
-DevOps & Cloud: Docker, AWS S3, Azure
+## 🛠 Tech Stack
 
-Practices: REST APIs, Microservices, Git, Agile
+**Frontend**
+`React` `Next.js (SSR/SSG)` `TypeScript` `Tailwind CSS` `JavaScript (ES6+)`
 
-📌 Selected Projects
+**Backend**
+`Node.js` `NestJS` `Express.js` `Microservices` `RESTful APIs` `RBAC`
 
-Munchies V3 – Scalable food delivery platform built with Next.js and NestJS microservices
+**Databases & Cloud**
+`PostgreSQL` `MongoDB` `MySQL` `AWS S3` `Azure` `Redis`
 
-Cookspace – Responsive web platform for a sister brand (React)
+**DevOps & Tools**
+`Docker` `Kubernetes` `CI/CD` `Git` `OpenAI APIs`
 
-Pixel-Fixture / InvestHub / Aura – TypeScript-driven web applications
+---
 
-Custom AI Chatbot – MERN-based chatbot with OpenAI integration
+## 🚀 Selected Projects
 
-🌱 Currently Focused On
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**Munchies V3**](https://munchies.com.bd) | NestJS · Next.js · PostgreSQL · Docker | Production multi-vendor food delivery platform with real-time order lifecycle tracking, role-based dashboards, and a microservices backend at scale |
+| [**Cookspace**](https://cookspace.netlify.app) | React · Node.js · Express · MongoDB | Mobile-first recipe community platform with reusable component library and user-generated content |
+| **Custom AI Chatbot** | MERN · OpenAI API · AWS S3 | Full-stack customer support chatbot that automated query resolution and reduced manual support workload |
 
-Advanced React & Next.js patterns
+---
 
-System design fundamentals
+## 🌱 Currently Focused On
 
-Writing clean, maintainable, and scalable code
+- Advanced React & Next.js patterns (Server Components, App Router)
+- System design fundamentals & distributed systems
+- Writing clean, maintainable, and scalable code
 
-📫 Connect With Me
+---
 
-🌐 Portfolio: https://sajjad-hossain.netlify.app
+## 📊 GitHub Stats
 
-💼 LinkedIn: https://linkedin.com/in/sajjad19397
+<div align="center">
 
-📧 Email: sajjad19397@gmail.com
+![Sajjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjad19397&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad19397&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
-⭐ If you find my projects useful, feel free to star or fork them.
+</div>
+
+---
+
+<div align="center">
+
+*⭐ If you find my projects useful, feel free to star or fork them!*
+
+</div>
