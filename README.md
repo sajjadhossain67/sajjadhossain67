@@ -59,16 +59,6 @@ Full-Stack Engineer with **2+ years of production experience** building microser
 
 ---
 
-## 📊 GitHub Stats
-
-![Sajjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjad19397&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad19397&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
 ---
 
-<div align="center">
-
 *⭐ If you find my projects useful, feel free to star or fork them!*
-
-</div>
