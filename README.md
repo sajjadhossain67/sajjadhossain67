@@ -18,7 +18,7 @@
 
 Full-Stack Engineer with **2+ years of production experience** building microservices and high-performance web applications. Currently at **Munchies** where I architected a scalable NestJS microservices system (V3) and engineered RBAC-based admin panels for a multi-vendor food delivery platform.
 
-- 💼 **Junior Software Engineer** @ Munchies, Dhaka
+- 💼 **Junior Software Engineer** @ Vonome, Dhaka
 - 🏆 **AI HackFest 2023 Champion** — Team QuantoBug (SJ Innovation LLC)
 - 🏅 **National Hackathon 2022** — Top 15 Finalist across Bangladesh
 - 🎓 **B.Sc. CSE** — American International University-Bangladesh (AIUB)
