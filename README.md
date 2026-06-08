@@ -22,7 +22,7 @@ Currently working at **Vonome Software & Systems**, building enterprise-grade he
 
 Previously at **Munchies**, where I architected scalable NestJS microservices powering a production multi-vendor food delivery platform serving thousands of users.
 
-* 💼 **Full-Stack Engineer** @ Vonome Software & Systems
+* 💼 **Full-Stack Engineer** @ Webbly Media Digital solutions SL
 * 🚀 Built **DaySpheres** — US's largest Adult Day Care SaaS
 * ⚡ Reduced API latency by **50%** using Redis caching & query optimization
 * 📈 Improved Core Web Vitals by **35%** on production SSR platforms
