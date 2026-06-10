@@ -18,9 +18,11 @@
 
 Full-Stack Engineer with **3+ years of production experience** building scalable SaaS platforms, enterprise systems, and high-performance web applications using modern JavaScript ecosystems.
 
-Currently working at **Webbly Media Digital solutions SL**, building enterprise-grade healthcare SaaS solutions with Angular, NestJS, Keycloak, PostgreSQL, and Azure infrastructure.
+Currently working at **Webbly Media Digital solutions SL**, building enterprise-grade Applications with  NextJS, Python, PostgreSQL, and etc.
 
-Previously at **Munchies**, where I architected scalable NestJS microservices powering a production multi-vendor food delivery platform serving thousands of users.
+Previously I worked at at **Vonome Software and System**, building enterprise-grade healthcare SaaS solutions with Angular, NestJS, Keycloak, PostgreSQL, and Azure infrastructure.
+
+Before that, I worked at **Munchies**, where I architected scalable NestJS microservices powering a production multi-vendor food delivery platform serving thousands of users.
 
 * 💼 **Full-Stack Engineer** @ Webbly Media Digital solutions SL
 * 🚀 Built **DaySpheres** — US's largest Adult Day Care SaaS
