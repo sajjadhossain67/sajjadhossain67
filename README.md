@@ -278,17 +278,7 @@ Competed among leading engineering teams from across Bangladesh.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sajjadhossain67&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1c0505&title_color=ef4444&icon_color=dc2626&text_color=fca5a5&ring_color=ef4444" height="180px" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadhossain67&hide_border=true&background=1C0505&ring=EF4444&fire=F97316&currStreakLabel=EF4444&sideLabels=FCA5A5&currStreakNum=FEF2F2&sideNums=FEF2F2&dates=A87171" height="180px" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadhossain67&layout=compact&langs_count=8&hide_border=true&bg_color=1c0505&title_color=ef4444&text_color=fca5a5" />
+<img src="./assets/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
 </div>
 
