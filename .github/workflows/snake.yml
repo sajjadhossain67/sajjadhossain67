@@ -3,9 +3,7 @@ name: Generate Contribution Snake
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -16,7 +14,6 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     timeout-minutes: 10
 
     steps:
@@ -24,7 +21,6 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: sajjadhossain67
-
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ef4444&color_dots=#161b22,#450a0a,#7f1d1d,#b91c1c,#ef4444

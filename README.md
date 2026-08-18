@@ -607,31 +607,11 @@ teams across Bangladesh
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                       ACTIVITY / MOTION                           -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🐍 CONTRIBUTION STREAM // LIVE MOTION</h2>
-
-<br/>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sajjadhossain67/sajjadhossain67/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sajjadhossain67/sajjadhossain67/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="Animated GitHub contribution snake"
-    src="https://raw.githubusercontent.com/sajjadhossain67/sajjadhossain67/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-  />
-</picture>
+<img src="./assets/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
 </div>
 
